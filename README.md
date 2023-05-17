@@ -2,6 +2,8 @@
 
 JCDS - Capstone Project Module 2 Nama : Leonard Tanubrata
 
+Tableau link : https://public.tableau.com/app/profile/leonard.tanubrata/viz/AnalisisDataTransjakarta2021/AnalisisDataTransjakarta2021#1
+
 Repository ini berisi tugas capstone project module 2 (Data Analytics) dengan details :
 
 ## **Context**
